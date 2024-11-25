@@ -1,0 +1,24 @@
+#table_header{
+    background-color: lightblue;
+}
+td , th {
+    padding: 20px;
+}
+table{
+    border: 4px dotted green;
+    color: darkmagenta;
+    font-size: 20px;
+    font-weight: 1000;
+}
+.a{
+    width:25%
+}
+.b{
+    width: 40%;
+}
+tr:hover{
+    background-color: lightsalmon;
+}
+td:hover{
+    background-color: lightgreen;
+}

@@ -1,0 +1,21 @@
+div{
+    margin-bottom:  20px;
+}
+form{
+    font-family: Verdana;
+}
+
+#button{
+    background-color: royalblue;
+    color: red;
+}
+#button:hover{
+    background-color: red;
+    font-size: 30px;
+    color: royalblue;
+    font-weight: 500;
+}
+input, select ,textarea{
+    border: 2px dotted green;
+    width: 100%;
+}
